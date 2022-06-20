@@ -1,5 +1,5 @@
 # Computer Vision in Robotics
-
+<h3>Домашная работа по Computer Vision in Robotics &copy;"Robots&Me"</h3>
 <img src="./.img/logo_for_form.png" height="350" />
 
 
